@@ -1,5 +1,4 @@
 import {FormFilter, LabelFilter, InputFilter} from './Filter.styled';
-// import { Input } from '../Forms/AddContactForm.styled';
 
 const Filter = ({ value, onChange }) => {
   return (
